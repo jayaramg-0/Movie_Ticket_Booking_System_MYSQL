@@ -32,7 +32,7 @@ movie-ticket-booking-db/
 │   └── movie_ticket_booking_full.sql     # CREATE TABLE statements (all 12 tables)
 │
 ├── data/
-│   └── movie_500_data.sql                # 500 rows of realistic sample data
+│   └── movie_data.sql                # 500 rows of realistic sample data
 │
 ├── model/
 │   └── movie_ticket_booking.mwb          # MySQL Workbench EER Diagram
