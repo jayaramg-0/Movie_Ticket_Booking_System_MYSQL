@@ -208,17 +208,11 @@ ORDER BY avg_rating DESC;
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 🙋 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- GitHub: [@jayaramg-0](https://github.com/jayaramg-0)
+- LinkedIn: [linkedin.com/in/jayaramg456](https://www.linkedin.com/in/jayaramg456/)
 
 ---
 
